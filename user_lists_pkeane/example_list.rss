@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" >
+<channel>
+<title><![CDATA[example list]]></title>
+<generator>pkeane</generator>
+<link>http://www.worldcat.org/profiles/pkeane/lists/1764913</link>
+<atom:link href="http://www.worldcat.org/profiles/pkeane/lists/1764913/rss" rel="self" type="application/rss+xml" />
+<description><![CDATA[example list]]></description>
+<ttl>100</ttl>
+<language>en</language>
+<category>All</category><item>
+<title><![CDATA[Speculative philosophy; a study of its nature, types, and uses,]]></title><link>http://www.worldcat.org/title/speculative-philosophy-a-study-of-its-nature-types-and-uses/oclc/482655</link>
+<guid>http://www.worldcat.org/title/speculative-philosophy-a-study-of-its-nature-types-and-uses/oclc/482655</guid>
+<guid>http://www.worldcat.org/oclc/482655</guid>
+<description><![CDATA[<strong>Speculative philosophy; a study of its nature, types, and uses,</strong><br />by Andrew J Reck<br />Type: book<br />Publisher: Albuquerque, University of New Mexico Press [1972]<br />My notes: none]]></description><pubDate>Sat, 01 Jan 1972 00:00:01 EST</pubDate>
+</item>
+<item>
+<title><![CDATA[The portable Nietsche]]></title><link>http://www.worldcat.org/title/portable-nietsche/oclc/504967505</link>
+<guid>http://www.worldcat.org/title/portable-nietsche/oclc/504967505</guid>
+<guid>http://www.worldcat.org/oclc/504967505</guid>
+<description><![CDATA[<strong>The portable Nietsche</strong><br />by Friedrich Nietzsche; Walter Kaufmann<br />Type: book<br />Publisher: New York : Viking Press, 1954 (1968 printing)<br />My notes: none]]></description><pubDate>Mon, 01 Jan 1968 00:00:01 EST</pubDate>
+</item>
+</channel></rss>
